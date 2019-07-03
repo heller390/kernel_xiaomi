@@ -214,4 +214,8 @@ source "drivers/gps/Kconfig"
 
 source "drivers/halls/Kconfig"
 
+source "drivers/firmware/Kconfig"
+
+source "drivers/anbox/Kconfig"
+
 endmenu
